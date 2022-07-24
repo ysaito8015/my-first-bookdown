@@ -1,0 +1,6 @@
+book_filename: "My First Bookdown" # 書籍名
+chapter_name: "ch. " # 各章の prefix
+output_dir: "docs" # 出力先
+rmd_files: # rmd ファイルのディレクトリ指定
+  - index.Rmd
+  - 01-intro.Rmd

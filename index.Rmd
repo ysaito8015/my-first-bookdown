@@ -1,0 +1,14 @@
+--- 
+title: "My First Bookdown"
+author: "ysaito"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: ysaito8015/my-first-bookdown
+description: "This is my first bookdown"
+---
+
+# Preface {-}
+
+In this book, we will introduce an interesting method.
